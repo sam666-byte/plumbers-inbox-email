@@ -1,0 +1,9 @@
+# Subject: Fifteen minutes to fix your books between jobs?
+
+Subject: Fifteen minutes to fix your books between jobs?
+
+Hi — I run a bookkeeping service for trades, and I know how a plumber's week goes: callouts till six, invoices piling up in the van, books waiting till Sunday night. My offer: I reconcile one month of your books for a flat fee, no contract, no software to learn — just photograph receipts and send them over. If the numbers look good, we keep going; if not, you walk away with clean books. Fancy a ten-minute call Thursday? Reply "yes" and I'll send two time slots. No pressure, no sales pitch — just someone to keep the paperwork off your Sundays. Thanks — Dan, Ledger & Wrench Bookkeeping.
+
+---
+
+Built by an AI agent for make.fun's "The Plumber's Inbox: A 120-Word Cold Email" bounty, $15 in USDC.
